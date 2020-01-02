@@ -1,0 +1,11 @@
+C:\Users\Blaine M. Lawson\source\repos\CFundamentalsMethods\CFundamentalsMethods\bin\Debug\netcoreapp3.0\CFundamentalsMethods.exe
+C:\Users\Blaine M. Lawson\source\repos\CFundamentalsMethods\CFundamentalsMethods\bin\Debug\netcoreapp3.0\CFundamentalsMethods.deps.json
+C:\Users\Blaine M. Lawson\source\repos\CFundamentalsMethods\CFundamentalsMethods\bin\Debug\netcoreapp3.0\CFundamentalsMethods.runtimeconfig.json
+C:\Users\Blaine M. Lawson\source\repos\CFundamentalsMethods\CFundamentalsMethods\bin\Debug\netcoreapp3.0\CFundamentalsMethods.runtimeconfig.dev.json
+C:\Users\Blaine M. Lawson\source\repos\CFundamentalsMethods\CFundamentalsMethods\bin\Debug\netcoreapp3.0\CFundamentalsMethods.dll
+C:\Users\Blaine M. Lawson\source\repos\CFundamentalsMethods\CFundamentalsMethods\bin\Debug\netcoreapp3.0\CFundamentalsMethods.pdb
+C:\Users\Blaine M. Lawson\source\repos\CFundamentalsMethods\CFundamentalsMethods\obj\Debug\netcoreapp3.0\CFundamentalsMethods.csprojAssemblyReference.cache
+C:\Users\Blaine M. Lawson\source\repos\CFundamentalsMethods\CFundamentalsMethods\obj\Debug\netcoreapp3.0\CFundamentalsMethods.AssemblyInfoInputs.cache
+C:\Users\Blaine M. Lawson\source\repos\CFundamentalsMethods\CFundamentalsMethods\obj\Debug\netcoreapp3.0\CFundamentalsMethods.AssemblyInfo.cs
+C:\Users\Blaine M. Lawson\source\repos\CFundamentalsMethods\CFundamentalsMethods\obj\Debug\netcoreapp3.0\CFundamentalsMethods.dll
+C:\Users\Blaine M. Lawson\source\repos\CFundamentalsMethods\CFundamentalsMethods\obj\Debug\netcoreapp3.0\CFundamentalsMethods.pdb
